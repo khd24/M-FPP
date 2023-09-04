@@ -25,6 +25,7 @@ EXTERNAL (to be able to provide command line arguments. If this is not defined, 
 **Other macros (define while building the executable)**
 
 MAX_TIME (time in seconds for Explicit/Implicit enumeration)
+
 MAX_GAP (e.g. 0.01 to specify the optimality gap for implicit enumeration)
 
 **Runtime arguments:**
